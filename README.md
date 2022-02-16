@@ -1,3 +1,3 @@
 # Hello-World
 My First GitHub
-A correction
+A new ALX student dedicated to learn programming
